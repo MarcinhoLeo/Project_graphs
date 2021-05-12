@@ -1,0 +1,2 @@
+C:\Integral\Algoritm\Debug\Algoritm.exe
+C:\Integral\Algoritm\Debug\Algoritm.pdb

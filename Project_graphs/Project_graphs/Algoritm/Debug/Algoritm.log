@@ -1,0 +1,5 @@
+﻿  Algoritm.cpp
+C:\Users\leogu\Downloads\send\send\Algoritm\Algoritm.cpp(9,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\leogu\Downloads\send\send\Algoritm\Algoritm.cpp(78,13): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\leogu\Downloads\send\send\Algoritm\Algoritm.cpp(111,12): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  Algoritm.vcxproj -> C:\Users\leogu\Downloads\send\send\Algoritm\Debug\Algoritm.exe
